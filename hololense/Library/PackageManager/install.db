@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1652002068744,
+        "size": 10611639,
+        "localPath": "C:\\Users\\kocan\\Desktop\\hololense\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "3bad99c89252",
+        "mtime": 1652002068452,
+        "size": 8670682,
+        "localPath": "C:\\Users\\kocan\\Desktop\\hololense\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "2095abe3b61d",
+        "mtime": 1652002067952,
+        "size": 5303497,
+        "localPath": "C:\\Users\\kocan\\Desktop\\hololense\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "tarball": {
+        "hash": "15892c90b669",
+        "mtime": 1652195055290,
+        "size": 5994858,
+        "localPath": "C:\\Users\\kocan\\Desktop\\hololense\\Packages\\MixedReality\\com.microsoft.spatialaudio.spatializer.unity-1.0.246.tgz"
+      }
+    },
+    "com.microsoft.windows.mixedreality.dotnetwinrt": {
+      "tarball": {
+        "hash": "c4cffcb2b703",
+        "mtime": 1652196248985,
+        "size": 81616,
+        "localPath": "C:\\Users\\kocan\\Desktop\\hololense\\Packages\\MixedReality\\com.microsoft.windows.mixedreality.dotnetwinrt-0.5.2009.tgz"
+      }
+    }
+  }
+}
